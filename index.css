@@ -26,6 +26,17 @@ body{
     font-family: 'Century Gothic',sans-serif;
   }
 
+  .project{
+    width: 450px;
+    background: lightslategrey;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+    font-family: 'Century Gothic',sans-serif;
+  }
+
   .box-img{
     border-radius: 50%;
     width: 200px;
