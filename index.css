@@ -1,12 +1,12 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(bg.jpg) no-repeat;
+    background: url('cool-background.png') repeat;
     background-size: cover;
   }
   .box{
-    width: 450px;
-    background: lightskyblue;
+    width: 700px;
+    background: wheat;
     padding: 40px;
     text-align: center;
     margin: auto;
@@ -26,7 +26,8 @@ body{
     font-family: 'Century Gothic',sans-serif;
   }
 
-  .project{width: 350px;
+  .project{
+    width: 350px;
     background: lightslategray;
     padding: 40px;
     text-align: center;
@@ -74,7 +75,7 @@ body{
     color: #b9b9b9;
   }
   
-  .contact-me{width: 450px;
+  .contact-me{width: 375px;
     background: lightsalmon ;
     padding: 40px;
     text-align: center;
@@ -108,12 +109,23 @@ body{
     }
     footer {
       text-align: center;
-      padding: 3px;
-      background-color:white ;
+      padding: 10px;
+      background-color: lightgray;
       color: blue;
     }
 
     img{
       height: 50%;
-      width: 50%;
+      width: 60%;
+    }
+    
+    .profile{
+      width: 350px;
+    background: lightslategray;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+    font-family: 'Century Gothic',sans-serif;
     }
